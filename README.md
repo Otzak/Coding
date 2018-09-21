@@ -2,6 +2,8 @@
 <br/>
 Гущин Павел ФГН, философия, БФС171
 <br/>
+![alt text](https://github.com/Otzak/Otzak.github.io/blob/master/15.jpg)
+<br/>
 Интересы:
 <br/>
 Буддизм
