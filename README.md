@@ -18,5 +18,5 @@
 |  №      | Описание    | Ссылка на работу |
 | :------------- |:-------------| :-----|
 | **1**    | Дз1| [*Код*](https://github.com/Otzak/python-dh-hw/blob/master/HW1.ipynb) |
-| **2**    | Дз2| [*Код*](https://www.github.com) |
+| **2**    | Дз2| [*Код*](https://github.com/Otzak/python-dh-hw/blob/master/HW2.ipynb) |
 | **3**    | Дз3| [*Код*](https://www.github.com) |
